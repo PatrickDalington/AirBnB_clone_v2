@@ -29,3 +29,10 @@ You can install MySQLdb using:
 ```
 $ pip install mysqlclient
 ```
+
+
+## Authors
+
+-[Patrick Olumba](https://github.com/patrickolumba)
+
+-[Ibrahim](https://github.com/ibrodante)
